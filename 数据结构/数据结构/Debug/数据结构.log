@@ -1,0 +1,2 @@
+﻿F:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  数据结构.vcxproj -> D:\code\c++code\数据结构\数据结构\Debug\数据结构.exe
